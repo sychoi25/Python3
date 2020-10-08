@@ -1,0 +1,5 @@
+#1_list to SET
+*orders will be messed up
+
+testL = [1,2,3,4,3,2,1]
+print(set(testL))
